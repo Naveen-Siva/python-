@@ -6,5 +6,4 @@ for b in range(n):
     s.append(b+1)
 for a in range(k):
     sum=sum+s[a]
-print(s)
 print(sum)
